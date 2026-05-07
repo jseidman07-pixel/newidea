@@ -1,0 +1,14 @@
+{
+  "scoring_method": "quick_generation_equal_weight",
+  "criteria_scores": {
+    "demand": 8,
+    "competition": 6,
+    "pricing": 8,
+    "distribution": 6,
+    "speed_to_test": 9,
+    "personal_advantage": 9
+  },
+  "final_score": 77,
+  "verdict": "top-tier test",
+  "rationale": "Clear monetization and strong founder fit, with moderate competition and realistic service-first execution."
+}

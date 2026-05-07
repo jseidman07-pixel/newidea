@@ -1,0 +1,17 @@
+{
+  "natural_usage_frequency": "monthly",
+  "external_trigger": "leasing season, pricing updates, new competitor moves, and campaign planning cycles",
+  "habit_formation_score": 3,
+  "churn_risk_factors": [
+    "If the intelligence does not clearly affect leasing outcomes, operators may treat it as optional.",
+    "Some operators may only need this during peak leasing months rather than year-round.",
+    "The service may be seen as redundant if internal reporting already covers enough."
+  ],
+  "estimated_retention": {
+    "d1": 85,
+    "d7": 70,
+    "d30": 55
+  },
+  "churn_risk": "medium",
+  "retention_verdict": "moderate"
+}

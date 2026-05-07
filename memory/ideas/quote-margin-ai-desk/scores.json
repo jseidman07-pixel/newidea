@@ -1,0 +1,14 @@
+{
+  "scoring_method": "quick_generation_equal_weight",
+  "criteria_scores": {
+    "demand": 9,
+    "competition": 7,
+    "pricing": 9,
+    "distribution": 5,
+    "speed_to_test": 7,
+    "personal_advantage": 7
+  },
+  "final_score": 79,
+  "verdict": "high-upside candidate",
+  "rationale": "The demand and pricing are excellent, but your distribution edge is weaker here than in Auburn- or real-estate-specific opportunities."
+}

@@ -1,0 +1,14 @@
+{
+  "scoring_method": "quick_generation_equal_weight",
+  "criteria_scores": {
+    "demand": 8,
+    "competition": 7,
+    "pricing": 8,
+    "distribution": 6,
+    "speed_to_test": 8,
+    "personal_advantage": 9
+  },
+  "final_score": 78,
+  "verdict": "high-upside candidate",
+  "rationale": "A stronger and more specific real-estate wedge than generic content services, with clear value and strong founder fit."
+}

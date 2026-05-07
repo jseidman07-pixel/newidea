@@ -1,0 +1,14 @@
+{
+  "scoring_method": "quick_generation_equal_weight",
+  "criteria_scores": {
+    "demand": 7,
+    "competition": 7,
+    "pricing": 5,
+    "distribution": 8,
+    "speed_to_test": 8,
+    "personal_advantage": 8
+  },
+  "final_score": 72,
+  "verdict": "strong candidate",
+  "rationale": "Very founder-fit and locally testable, though pricing power is weaker than B2B service ideas."
+}

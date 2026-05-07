@@ -1,0 +1,160 @@
+{
+  "direct_competitors": [
+    {
+      "name": "Yardi Matrix Student Housing",
+      "platform": "web platform",
+      "estimated_users": "institutional real estate professionals; exact count not public",
+      "app_store_rating": 0,
+      "review_count": 0,
+      "last_updated": "2026",
+      "pricing": "custom subscription pricing based on markets and users",
+      "pricing_model": "subscription",
+      "top_features": [
+        "rent and pre-leasing curves",
+        "property-level information and unit mix",
+        "ownership, loans, and pipeline data"
+      ],
+      "top_complaints": [
+        "likely overbuilt for a single local leasing team",
+        "pricing is opaque and sales-led",
+        "investor and underwriting orientation is stronger than day-to-day local messaging insight"
+      ],
+      "complaint_themes": [
+        "enterprise complexity",
+        "opaque pricing",
+        "not localized to one campus behavior layer"
+      ],
+      "distribution_channels_observed": [
+        "demo-led sales",
+        "research reports",
+        "institutional real estate positioning"
+      ],
+      "evidence_type": "public-site positioning; complaints inferred from product scope rather than review mining"
+    },
+    {
+      "name": "BONARD Platform",
+      "platform": "web platform",
+      "estimated_users": "institutional student housing operators and investors; exact count not public",
+      "app_store_rating": 0,
+      "review_count": 0,
+      "last_updated": "2026",
+      "pricing": "Lite, Pro, and Premium subscriptions; prices available upon request",
+      "pricing_model": "subscription",
+      "top_features": [
+        "supply and demand dashboards",
+        "rent insights and investment analytics",
+        "reports and consultancy access in premium tier"
+      ],
+      "top_complaints": [
+        "global scope may be too broad for one-campus decisions",
+        "sales-led pricing creates friction for smaller buyers",
+        "best fit appears to be capital allocators rather than local leasing teams"
+      ],
+      "complaint_themes": [
+        "broad enterprise positioning",
+        "opaque pricing",
+        "not purpose-built for hyperlocal leasing execution"
+      ],
+      "distribution_channels_observed": [
+        "free trial",
+        "subscription tiers",
+        "institutional brand trust"
+      ],
+      "evidence_type": "public-site positioning; complaints inferred from product scope rather than review mining"
+    },
+    {
+      "name": "Studenthaus",
+      "platform": "web platform",
+      "estimated_users": "student housing operators and developers; exact count not public",
+      "app_store_rating": 0,
+      "review_count": 0,
+      "last_updated": "2026",
+      "pricing": "start free; paid tiers not public",
+      "pricing_model": "free trial plus subscription/enterprise",
+      "top_features": [
+        "pricing strategy and rent sweet spot",
+        "leasing strategy by segment and price point",
+        "AI search backed by 6000+ student surveys"
+      ],
+      "top_complaints": [
+        "Canada-first heritage may limit direct Auburn relevance",
+        "platform approach still requires a buyer to translate insight into local action",
+        "pricing depth beyond entry motion is not transparent"
+      ],
+      "complaint_themes": [
+        "geographic fit uncertainty",
+        "translation from dashboard to action",
+        "opaque monetization"
+      ],
+      "distribution_channels_observed": [
+        "free-start motion",
+        "survey-backed intelligence",
+        "site simulation and planning use cases"
+      ],
+      "evidence_type": "public-site positioning; complaints inferred from product scope rather than review mining"
+    }
+  ],
+  "indirect_competitors": [
+    {
+      "name": "Campus and listing portals",
+      "approach": "Listing and inventory marketplaces such as Auburn off-campus housing portals",
+      "why_users_choose_it": "Easy source of visible competitor inventory, pricing, and amenities without buying a dedicated platform."
+    },
+    {
+      "name": "Local student housing marketing agencies",
+      "approach": "Campaign and leasing support",
+      "why_users_choose_it": "Operators may hire an agency to help execute messaging instead of buying a research-first product."
+    }
+  ],
+  "substitutes": [
+    {
+      "description": "Internal spreadsheets plus leasing manager intuition",
+      "cost": "existing staff time",
+      "friction_level": "medium",
+      "switching_cost_to_app": "Low if the service shows clearer decisions and saves time."
+    },
+    {
+      "description": "Resident surveys and ad hoc student interviews",
+      "cost": "low cash cost, moderate staff time",
+      "friction_level": "medium",
+      "switching_cost_to_app": "Moderate because many teams already trust survey-based processes."
+    },
+    {
+      "description": "Do nothing beyond current leasing reports",
+      "cost": "$0",
+      "friction_level": "low",
+      "switching_cost_to_app": "High psychological hurdle if the value is not tied to leases or pricing outcomes."
+    }
+  ],
+  "emerging_threats": [
+    {
+      "name": "AI layers inside enterprise housing intelligence platforms",
+      "why_it_matters": "Existing data vendors can add local insight summaries and close part of the gap if the wedge proves valuable."
+    },
+    {
+      "name": "University-affiliated housing data tools",
+      "why_it_matters": "Campus-operated locator and housing data tools could improve and reduce perceived need for outside research."
+    }
+  ],
+  "positioning_gaps": [
+    {
+      "gap_type": "audience gap",
+      "description": "Local Auburn leasing managers need campus-specific renter behavior and messaging guidance, not national investor dashboards.",
+      "defensibility": "medium"
+    },
+    {
+      "gap_type": "experience gap",
+      "description": "Operators need action-ready briefs and recommendations, not just raw dashboards or large data platforms.",
+      "defensibility": "medium"
+    },
+    {
+      "gap_type": "philosophy gap",
+      "description": "A behavioral-intelligence and student-voice product is different from property-finance intelligence.",
+      "defensibility": "high"
+    }
+  ],
+  "market_saturation_score": 10,
+  "market_saturation": "medium",
+  "market_saturation_rationale": "There are established intelligence vendors, but they are broad, enterprise, and often investor-oriented. The Auburn-specific leasing intelligence wedge is still relatively open.",
+  "confidence": "medium"
+}

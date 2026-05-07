@@ -1,0 +1,14 @@
+{
+  "scoring_method": "quick_generation_equal_weight",
+  "criteria_scores": {
+    "demand": 7,
+    "competition": 6,
+    "pricing": 4,
+    "distribution": 8,
+    "speed_to_test": 9,
+    "personal_advantage": 8
+  },
+  "final_score": 70,
+  "verdict": "strong candidate",
+  "rationale": "Very easy to test and distribute, but weak standalone pricing unless paired with a higher-ticket offer."
+}

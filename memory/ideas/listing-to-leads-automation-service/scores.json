@@ -1,0 +1,14 @@
+{
+  "scoring_method": "quick_generation_equal_weight",
+  "criteria_scores": {
+    "demand": 8,
+    "competition": 6,
+    "pricing": 9,
+    "distribution": 5,
+    "speed_to_test": 7,
+    "personal_advantage": 8
+  },
+  "final_score": 72,
+  "verdict": "strong candidate",
+  "rationale": "Good pricing and real pain point, but it requires more credibility and setup complexity than a content service."
+}

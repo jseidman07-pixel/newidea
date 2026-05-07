@@ -1,0 +1,14 @@
+{
+  "scoring_method": "quick_generation_equal_weight",
+  "criteria_scores": {
+    "demand": 7,
+    "competition": 6,
+    "pricing": 8,
+    "distribution": 4,
+    "speed_to_test": 5,
+    "personal_advantage": 6
+  },
+  "final_score": 60,
+  "verdict": "secondary candidate",
+  "rationale": "Good pricing potential, but slower trust-building and more operational caution than your top options."
+}

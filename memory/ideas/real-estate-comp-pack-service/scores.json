@@ -1,0 +1,14 @@
+{
+  "scoring_method": "quick_generation_equal_weight",
+  "criteria_scores": {
+    "demand": 7,
+    "competition": 7,
+    "pricing": 8,
+    "distribution": 6,
+    "speed_to_test": 9,
+    "personal_advantage": 10
+  },
+  "final_score": 78,
+  "verdict": "top-tier test",
+  "rationale": "Excellent founder fit and fast service launch with better pricing power than student-focused offers."
+}

@@ -1,0 +1,59 @@
+{
+  "ltv": {
+    "estimated_ltv": 3600,
+    "arpu_monthly": 900,
+    "average_lifespan_months": 4,
+    "ltv_confidence": "medium",
+    "ltv_assumptions": [
+      "One paying operator retains for one leasing cycle or roughly four months.",
+      "Average monthly retainer lands near the target price point of $900."
+    ]
+  },
+  "founder_budget_tier": "bootstrap",
+  "cac_by_channel": {
+    "warm_relationship_outreach": {
+      "cac": 60,
+      "ltv_cac_ratio": 60,
+      "classification": "Excellent",
+      "payback_months": 0.07
+    },
+    "sample_brief_cold_outreach": {
+      "cac": 180,
+      "ltv_cac_ratio": 20,
+      "classification": "Excellent",
+      "payback_months": 0.2
+    },
+    "local_thought_leadership": {
+      "cac": 120,
+      "ltv_cac_ratio": 30,
+      "classification": "Excellent",
+      "payback_months": 0.13
+    },
+    "paid_social_meta": {
+      "cac": 600,
+      "ltv_cac_ratio": 6,
+      "classification": "theoretically healthy but impractical at bootstrap stage",
+      "payback_months": 0.67
+    }
+  },
+  "skipped_channels": [
+    "ASO organic - not an app at launch",
+    "TikTok organic - not the best path to first B2B customer",
+    "influencer - weak fit",
+    "press_product_hunt - wrong format for the first offer"
+  ],
+  "viable_channels": [
+    "warm_relationship_outreach",
+    "sample_brief_cold_outreach",
+    "local_thought_leadership"
+  ],
+  "marginal_channels": [],
+  "non_viable_channels": [
+    "paid_social_meta at current founder budget"
+  ],
+  "recommended_first_channel": "sample_brief_cold_outreach",
+  "recommended_first_channel_rationale": "The founder can build a list of Auburn operators immediately, attach one sample insight teardown, and ask for a paid pilot without spending money on ads.",
+  "viability_verdict": "viable",
+  "viability_verdict_rationale": "The first-customer path is service-sales based rather than app-growth based. At bootstrap budget, direct outreach is viable if the founder can prove local insight value quickly.",
+  "confidence": "medium"
+}

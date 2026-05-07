@@ -1,0 +1,101 @@
+{
+  "dimension_scores": {
+    "demand": 84,
+    "competition": 61,
+    "monetization": 76,
+    "distribution": 68,
+    "retention": 52,
+    "founder_market_fit": 88
+  },
+  "weights_applied": {
+    "demand": 0.20,
+    "competition": 0.10,
+    "monetization": 0.20,
+    "distribution": 0.20,
+    "retention": 0.15,
+    "founder_market_fit": 0.15
+  },
+  "floor_penalty": 1.0,
+  "base_score": 73,
+  "missing_discount": 1.0,
+  "final_score": 73,
+  "verdict": "test",
+  "score_confidence": "high",
+  "missing_inputs": [],
+  "top_strengths": [
+    {
+      "dimension": "founder_market_fit",
+      "score": 88,
+      "reason": "The founder has real Auburn access, student-community visibility, research strengths, and local relevance that broad enterprise competitors do not."
+    },
+    {
+      "dimension": "demand",
+      "score": 84,
+      "reason": "Student housing operators face a more price-sensitive market in 2026 and public industry commentary highlights a gap between survey answers and actual renter behavior."
+    },
+    {
+      "dimension": "monetization",
+      "score": 76,
+      "reason": "The market already pays for student housing intelligence through subscription platforms, and the service can start with paid pilots before expanding into retainers."
+    }
+  ],
+  "top_weaknesses": [
+    {
+      "dimension": "retention",
+      "score": 52,
+      "reason": "Operators may only value this during leasing season or until they absorb the core insights, which makes recurring retention uncertain."
+    },
+    {
+      "dimension": "competition",
+      "score": 61,
+      "reason": "Enterprise intelligence vendors already exist, so this idea must stay narrow and action-oriented rather than trying to compete on raw data breadth."
+    },
+    {
+      "dimension": "distribution",
+      "score": 68,
+      "reason": "There is no scalable viral or paid engine at launch; first customers depend on direct outreach and proof of value."
+    }
+  ],
+  "killer_dimensions": [],
+  "riskiest_assumption_test": {
+    "assumption": "Auburn-area student housing operators will pay a student founder for a local intelligence brief instead of relying on existing leasing reports, surveys, and internal intuition.",
+    "category": "monetization",
+    "criticality": 5,
+    "uncertainty": 4,
+    "rat_score": 20,
+    "experiment": {
+      "type": "paid pilot outreach",
+      "description": "Build a list of 15 Auburn-area operators or leasing teams. Create one 3-page sample brief using public listings, pricing, amenities, reviews, and student interviews. Send highly tailored outreach offering a $250 pilot brief and ask for a short call.",
+      "duration": "14 days",
+      "estimated_cost": "$0-$50",
+      "pass_threshold": "At least 3 meetings booked and 1 paid pilot closed from 15 targeted prospects within 14 days.",
+      "fail_action": "pivot"
+    },
+    "all_assumptions_ranked": [
+      {
+        "assumption": "Auburn-area student housing operators will pay a student founder for a local intelligence brief instead of relying on existing leasing reports, surveys, and internal intuition.",
+        "criticality": 5,
+        "uncertainty": 4,
+        "rat_score": 20
+      },
+      {
+        "assumption": "The insight can be made concrete enough to influence pricing or messaging decisions, not just be read and ignored.",
+        "criticality": 4,
+        "uncertainty": 4,
+        "rat_score": 16
+      },
+      {
+        "assumption": "Auburn campus access creates a real moat rather than a nice-sounding story.",
+        "criticality": 4,
+        "uncertainty": 3,
+        "rat_score": 12
+      },
+      {
+        "assumption": "A monthly retainer is sustainable beyond the first pilot.",
+        "criticality": 3,
+        "uncertainty": 3,
+        "rat_score": 9
+      }
+    ]
+  }
+}

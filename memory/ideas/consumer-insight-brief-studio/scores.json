@@ -1,0 +1,14 @@
+{
+  "scoring_method": "quick_generation_equal_weight",
+  "criteria_scores": {
+    "demand": 8,
+    "competition": 6,
+    "pricing": 7,
+    "distribution": 4,
+    "speed_to_test": 7,
+    "personal_advantage": 8
+  },
+  "final_score": 71,
+  "verdict": "good niche service",
+  "rationale": "Strong research fit and real market signal, but harder to sell than ideas with clearer revenue or cost-savings outcomes."
+}

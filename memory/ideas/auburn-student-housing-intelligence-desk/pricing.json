@@ -1,0 +1,31 @@
+{
+  "wtp_range": {
+    "low": 500,
+    "target": 900,
+    "aspirational": 1500,
+    "currency": "USD",
+    "period": "monthly"
+  },
+  "van_westendorp": {
+    "too_cheap": 250,
+    "cheap_but_acceptable": 500,
+    "getting_expensive": 900,
+    "too_expensive": 1800
+  },
+  "desire_premium_multiplier": 1.3,
+  "desire_premium_rationale": "Control and financial-security oriented B2B decisions support premium pricing over simple content or discovery products.",
+  "recommended_pricing_model": "paid pilot followed by monthly retainer",
+  "recommended_pricing_model_rationale": "A pilot removes trust friction. If the brief materially improves pricing or leasing messaging, a recurring monthly intelligence report is easier to renew than a pure software subscription.",
+  "freemium_conversion_estimate": 0,
+  "annual_plan_recommendation": "not applicable at launch; this should start as service revenue",
+  "pricing_benchmarks": [
+    "Yardi Matrix uses subscription pricing based on markets and users.",
+    "BONARD offers Lite, Pro, and Premium subscriptions with pricing by request.",
+    "Studenthaus uses a free-start motion and positions its intelligence around revenue-sensitive decisions like pricing and leasing strategy."
+  ],
+  "pricing_risks": [
+    "Small local operators may resist a full monthly retainer before seeing proof.",
+    "The value must be framed in leases, occupancy, or pricing decisions rather than general research quality."
+  ],
+  "confidence": "medium"
+}

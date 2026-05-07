@@ -13,12 +13,10 @@ memory/user_profile.md
 
 # idea directories are generated at runtime — one folder per idea evaluated
 # keep .gitkeep so the folder exists in fresh clones
-memory/ideas/*
-!memory/ideas/.gitkeep
+# NOTE: idea outputs and market insight summaries should be tracked when they are product artifacts.
 
 # market insight files are generated at runtime — keep the README and folder
-memory/market_insights/*.md
-!memory/market_insights/README.md
+# (existing market insights should be included in the repo)
 
 # ── Local-only AI tool settings ──────────────────────────────────────────────
 # Claude Code local overrides (project-level settings.json is committed)

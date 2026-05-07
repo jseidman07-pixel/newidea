@@ -1,0 +1,14 @@
+{
+  "scoring_method": "quick_generation_equal_weight",
+  "criteria_scores": {
+    "demand": 8,
+    "competition": 5,
+    "pricing": 8,
+    "distribution": 5,
+    "speed_to_test": 8,
+    "personal_advantage": 6
+  },
+  "final_score": 67,
+  "verdict": "good candidate",
+  "rationale": "Large market and good pricing, but weaker personal wedge and noisier positioning than niche offers."
+}

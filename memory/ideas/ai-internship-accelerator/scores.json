@@ -1,0 +1,14 @@
+{
+  "scoring_method": "quick_generation_equal_weight",
+  "criteria_scores": {
+    "demand": 8,
+    "competition": 5,
+    "pricing": 6,
+    "distribution": 9,
+    "speed_to_test": 10,
+    "personal_advantage": 9
+  },
+  "final_score": 78,
+  "verdict": "top-tier test",
+  "rationale": "High urgency, easy distribution, and excellent founder fit offset a somewhat crowded market."
+}

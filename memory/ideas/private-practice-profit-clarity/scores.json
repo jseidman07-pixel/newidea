@@ -1,0 +1,14 @@
+{
+  "scoring_method": "quick_generation_equal_weight",
+  "criteria_scores": {
+    "demand": 7,
+    "competition": 7,
+    "pricing": 7,
+    "distribution": 4,
+    "speed_to_test": 6,
+    "personal_advantage": 6
+  },
+  "final_score": 69,
+  "verdict": "interesting but slower",
+  "rationale": "Good pain point, but slower trust-building and weaker natural distribution make this a second-wave idea."
+}

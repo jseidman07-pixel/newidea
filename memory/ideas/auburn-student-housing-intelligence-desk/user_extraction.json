@@ -1,0 +1,15 @@
+{
+  "target_user": "Auburn-area student housing operators, leasing managers, and apartment marketers",
+  "core_problem": "They need sharper, faster local intelligence on pricing, student preferences, amenity tradeoffs, and leasing messaging, but existing inputs are fragmented, generic, or too slow.",
+  "pain_intensity": "high",
+  "job_to_be_done": "Help a local operator decide how to price, market, and position properties to student renters with more confidence.",
+  "current_alternatives": [
+    "internal spreadsheets",
+    "broad national dashboards",
+    "leasing team intuition",
+    "resident surveys",
+    "local marketing agencies"
+  ],
+  "usage_pattern": "monthly or biweekly reporting with heavier use during leasing season",
+  "identity_driver": "control"
+}

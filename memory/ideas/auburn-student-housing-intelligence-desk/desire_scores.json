@@ -1,0 +1,15 @@
+{
+  "scores": {
+    "survival": 4,
+    "status": 3,
+    "belonging": 2,
+    "control": 5,
+    "curiosity": 2
+  },
+  "primary_driver": "control",
+  "secondary_driver": "survival",
+  "desire_strength": 4.0,
+  "desire_strength_label": "strong",
+  "virality_potential": "low",
+  "notes": "The buyer is paying for better control over pricing, occupancy, and leasing decisions, with a secondary financial-security motivation tied to revenue and margin outcomes."
+}
